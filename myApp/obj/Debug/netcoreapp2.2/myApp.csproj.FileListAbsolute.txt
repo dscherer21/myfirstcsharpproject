@@ -1,0 +1,11 @@
+/home/david/Desktop/Web Development/firstc#project/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/home/david/Desktop/Web Development/firstc#project/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/home/david/Desktop/Web Development/firstc#project/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/home/david/Desktop/Web Development/firstc#project/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/home/david/Desktop/Web Development/firstc#project/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/home/david/Desktop/Web Development/firstc#project/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/home/david/Desktop/Web Development/firstc#project/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/home/david/Desktop/Web Development/firstc#project/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/home/david/Desktop/Web Development/firstc#project/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/home/david/Desktop/Web Development/firstc#project/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/home/david/Desktop/Web Development/firstc#project/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
